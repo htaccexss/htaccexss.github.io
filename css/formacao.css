@@ -149,4 +149,10 @@
     position: initial;
     margin-bottom: 10px;
   }
+
+  .formacao-container::after {
+    width: 30px;
+    height: 10px;
+    bottom: -5px;
+  }
 }
